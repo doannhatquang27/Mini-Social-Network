@@ -1,0 +1,6 @@
+FATAL   2020-09-28 10:30:58,374 [http-nio-8084-exec-30] quangdn.servlet.NotificationServlet  - NotificationServlet _ SQL: The multi-part identifier "blNotification.email" could not be bound.
+FATAL   2020-09-28 11:46:21,861 [http-nio-8084-exec-62] quangdn.servlet.ViewDetailServlet  - ViewDetailServlet _ SQL: An error occurred while converting the nvarchar value to JDBC data type TIMESTAMP.
+FATAL   2020-09-28 11:46:29,598 [http-nio-8084-exec-60] quangdn.servlet.ViewDetailServlet  - ViewDetailServlet _ SQL: An error occurred while converting the nvarchar value to JDBC data type TIMESTAMP.
+FATAL   2020-09-28 12:41:49,620 [http-nio-8084-exec-6] quangdn.servlet.ViewDetailServlet  - ViewDetailServlet _ SQL: An error occurred while converting the nvarchar value to JDBC data type TIMESTAMP.
+FATAL   2020-09-28 21:55:41,167 [http-nio-8084-exec-32] quangdn.servlet.CommentServlet  - CommentServlet _ SQL: The index 6 is out of range.
+FATAL   2020-09-29 19:36:54,371 [http-nio-8084-exec-10] quangdn.servlet.RegisterServlet  - RegisterServlet _ SQL: Violation of PRIMARY KEY constraint 'PK_tblUser'. Cannot insert duplicate key in object 'dbo.tblUser'. The duplicate key value is (kojima@gmail.com).
