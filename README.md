@@ -1,5 +1,5 @@
 # Welcome to Nhat Quang repository
-This repo contains the source code of a simple Java application used to implement the social networking site - a part of Java Web Lab course at FPT University - HCMC Campus
+This repo contains the source code of a simple Java Web application used to implement the social networking site - a part of Java Web Lab course at FPT University - HCMC Campus
 
 ## You will find in this repo:
 * Implementing a website using MVC model in Java
